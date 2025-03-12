@@ -122,7 +122,7 @@ layout: null
         <div class="column">
           <div class="content">
             <h3 class="publication-title"><a href="{{ publication.project_page }}">{{ publication.title }}</a></h3>
-            <div class="publication-authors">
+            <!-- <div class="publication-authors">
               {% for author_id in publication.authors %}
               {% assign author = site.data.authors[author_id] %}
               <span class="author-block {% if author.is_me %}author-me{% endif %}">
@@ -135,6 +135,41 @@ layout: null
                 {% endif %}
               </span>
               {% endfor %}
+            </div> -->
+            <div class="publication-authors">
+              {% if publication.co == 2 %}
+                {% assign co_count = 2 %}
+              {% else %}
+                {% assign co_count = 0 %}
+              {% endif %}
+            
+              {% for author_id in publication.authors %}
+                {% assign author = site.data.authors[author_id] %}
+                <span class="author-block {% if author.is_me %}author-me{% endif %}">
+                  {% if author.is_me %}
+                    {{ author.first_name }} {{ author.middle_name }} {{ author.last_name }}
+                    {% if co_count > 0 and forloop.index0 < co_count %}
+                      *
+                    {% endif %}
+                    {% if forloop.last == false %},{% endif %}
+                  {% else %}
+                    <a href="{{ author.website }}">
+                      {{ author.first_name }} {{ author.middle_name }} {{ author.last_name }}
+                    </a>
+                    {% if co_count > 0 and forloop.index0 < co_count %}
+                      *
+                    {% endif %}
+                    {% if forloop.last == false %},{% endif %}
+                  {% endif %}
+                </span>
+              {% endfor %}
+            
+              {% comment %}
+                co_count가 2면, 저자 리스트가 끝난 뒤 (*equal contribution) 표시
+              {% endcomment %}
+              {% if co_count == 2 %}
+                <span class="author-etc"> (*equal contribution)</span>
+              {% endif %}
             </div>
             <div class="publication-venue">
               <span>{{ publication.venue }}</span>

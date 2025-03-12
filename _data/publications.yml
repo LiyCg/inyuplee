@@ -1,3 +1,18 @@
+
+- id: facedirector
+  title: "FaceDirector: Iterative Editing of Speech-driven Facial Animation with Natural Language"
+  venue: "Under review"
+  paper: ""
+  video: ""
+  project_page: ""
+  image: facedirector.png
+  authors:
+    - inyup
+    - sunjin
+    - sihun
+    - junyong
+
+
 - id: dfl
   title: "Deep-Learning-Based Facial Retargeting Using Local Patches"
   venue: Computer Graphics Forum (CGF) 2024
