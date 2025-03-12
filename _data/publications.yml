@@ -2,9 +2,9 @@
 - id: facedirector
   title: "FaceDirector: Iterative Editing of Speech-driven Facial Animation with Natural Language"
   venue: "Under review"
-  paper: ""
-  video: ""
-  project_page: ""
+  # paper: ""
+  # video: ""
+  # project_page: ""
   image: facedirector.png
   authors:
     - inyup
@@ -16,9 +16,9 @@
 - id: dfl
   title: "Deep-Learning-Based Facial Retargeting Using Local Patches"
   venue: Computer Graphics Forum (CGF) 2024
-  paper: "https://onlinelibrary.wiley.com/doi/epdf/10.1111/cgf.15263"
-  video: ""
-  project_page: ""
+  # paper: ""
+  # video: ""
+  project_page: "https://onlinelibrary.wiley.com/doi/epdf/10.1111/cgf.15263"
   github: "LiyCg/DFL_3D_Face_Retargeting_Local_patches/"
   image: dfl.png
   authors:
@@ -29,4 +29,4 @@
     - sunjin
     - junyong
   co: 2
-  etc: "(*equal contribution)"
+  etc: "[* equal contribution]"
