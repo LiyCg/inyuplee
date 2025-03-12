@@ -18,23 +18,23 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Keunhong Park
-name: Keunhong Park
-position: Research Scientist 
-email: dp9jalxhq@mozmail.com
+title: Inyup Lee
+name: Inyup Lee
+position: M.S. student @ KAIST  
+email: leeinyup123@kaist.ac.kr
 description: >-
-  I am a researcher in 3D computer vision and generative AI. I currently co-lead the development of spatial intelligence at [World Labs](https://www.worldlabs.ai/blog).
-  I was previously a research scientist at [Google](https://ai.google/research/) where I built technology to [generate 3D assets](https://blog.google/products/shopping/search-on-2022-shopping/) for products on Google Search.
+  Hi everyone, I am a M.S. student in [Visual Media Lab](https://vml.kaist.ac.kr/) at [KAIST](https://www.kaist.ac.kr/en/). <br/>
+  I am interested in advancing character animation techniques, <br/>
+  with a particular emphasis on 3D facial animation and reconstruction. <br/>
+  Through my work, I aim to contribute to more efficient and high-quality <br/>
+  animation and reconstruction for 3D contents industries. 
 
-  I received my Ph.D from the [University of Washington](https://grail.cs.washington.edu/) in 2021 where I was advised by
-  [Ali Farhadi](https://homes.cs.washington.edu/~ali/) and
-  [Steve Seitz](https://homes.cs.washington.edu/~seitz/).
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://keunhong.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: KeunhongP
-github_username: keunhong
-google_scholar: HVZb-5oAAAAJ
-google_analytics: G-MFWSBLRKG0
+baseurl: "/inyuplee" # the subpath of your site, e.g. /blog
+url: "https://inyup.github.io/inyuplee/" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: KeunhongP
+github_username: LiyCg
+google_scholar: DF08-HEAAAAJ
+# google_analytics: G-MFWSBLRKG0
 
 # Build settings
 theme: minima
