@@ -30,10 +30,10 @@ description: >-
   animation and reconstruction for 3D contents industries. 
 
 baseurl: "/inyuplee" # the subpath of your site, e.g. /blog
-url: "https://LiyCg.github.io/inyuplee/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://LiyCg.github.io/inyuplee" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: KeunhongP
 github_username: LiyCg
-google_scholar: DF08-HEAAAAJ
+google_scholar: DF08lHEAAAAJ
 # google_analytics: G-MFWSBLRKG0
 
 # Build settings
