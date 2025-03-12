@@ -19,6 +19,7 @@
   paper: "https://onlinelibrary.wiley.com/doi/epdf/10.1111/cgf.15263"
   video: ""
   project_page: ""
+  github: "LiyCg/DFL_3D_Face_Retargeting_Local_patches/"
   image: dfl.png
   authors:
     - yeonsoo
