@@ -1,0 +1,13 @@
+- name: IITP Starlab 
+  support: IITP
+  date: May. 2024 ~ Ongoing
+  role: Project Manager
+  image: IITP_h.jpg
+  description: "Generating hyper-realistic to extremely-stylized face avatar with varied speech speed and context-based emotional expression"
+
+- name: Nermarble 3D Facial Animation Project
+  support: Netmarble
+  date: Mar. 2023 ~ Dec. 2023
+  role: Software Developer / Researcher
+  image: netmarble.png
+  description: "Conduct research on facial animation retargeting method to transfer motion of human facial performance video to 3D stylized character."
