@@ -1,4 +1,4 @@
-- id: loco_style
+- id: dfl
   title: "Deep-Learning-Based Facial Retargeting Using Local Patches"
   venue: Computer Graphics Forum (CGF) 2024
   paper: "https://onlinelibrary.wiley.com/doi/10.1111/cgf.15263"
@@ -10,3 +10,6 @@
     - sihun
     - seonghyeon
     - sunjin
+    - junyong
+  co: 2
+  etc: "(*equal contribution)"
