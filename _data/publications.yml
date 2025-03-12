@@ -1,8 +1,9 @@
 - id: dfl
   title: "Deep-Learning-Based Facial Retargeting Using Local Patches"
   venue: Computer Graphics Forum (CGF) 2024
-  paper: "https://onlinelibrary.wiley.com/doi/10.1111/cgf.15263"
-  # video: "https://youtu.be/SvvwF-5ugeU?si=XEX08Ly8D-VWArJl"
+  paper: "https://onlinelibrary.wiley.com/doi/epdf/10.1111/cgf.15263"
+  video: ""
+  project_page: ""
   image: dfl.png
   authors:
     - yeonsoo
