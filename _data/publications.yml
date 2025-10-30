@@ -12,10 +12,26 @@
     - sihun
     - junyong
 
+- id: maafa
+  title: "Mesh-Agnostic Audio-Driven 3D Facial Animation Generation"
+  venue: KCGS 2025 / Best Paper Award                                    
+  # paper: ""
+  # video: ""
+  project_page: "https://www.koreascience.kr/article/JAKO202521236003800.pub"
+  # github: "LiyCg/DFL_3D_Face_Retargeting_Local_patches/"
+  image: maafa.png
+  authors:
+    - kwanggyoon
+    - sihun
+    - hyeonho
+    - inyup
+    - junyong
+  co: 2
+  etc: "[* equal contribution]"
 
 - id: dfl
   title: "Deep-Learning-Based Facial Retargeting Using Local Patches"
-  venue: Computer Graphics Forum (CGF) 2024 / EuroGraphics 2025
+  venue: Computer Graphics Forum (CGF) 2024 / EuroGraphics 2025                                     
   # paper: ""
   # video: ""
   project_page: "https://onlinelibrary.wiley.com/doi/epdf/10.1111/cgf.15263"
