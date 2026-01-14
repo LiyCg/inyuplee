@@ -32,7 +32,7 @@
 - id: dfl
   title: "Deep-Learning-Based Facial Retargeting Using Local Patches"
   venue: Computer Graphics Forum (CGF) 2024 / EuroGraphics 2025                                     
-  arxiv: "https://arxiv.org/abs/2601.08429"
+  arxiv: "2601.08429/"
   # paper: ""
   # video: ""
   project_page: "https://liycg.github.io/DLF_page/"
