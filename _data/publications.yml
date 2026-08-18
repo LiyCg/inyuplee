@@ -1,4 +1,19 @@
 
+- id: anytalk
+  title: "AnyTalk: Zero-Shot Speech-Driven 3D Facial Animation"
+  venue: "TEEE TVCG 2026"
+  # paper: ""
+  # video: ""
+  # project_page: ""
+  image: anytalk.png
+  authors:
+    - Kwan Yun
+    - Serin Yoon
+    - Sunjin Jung
+    - Jung Eun Yoo
+    - Inyup Lee
+    - Junyong Noh
+
 - id: facedirector
   title: "FaceDirector: Iterative Editing of Speech-driven Facial Animation with Natural Language"
   venue: "Under review"
