@@ -7,13 +7,15 @@
   project_page: "https://serin-yoon.github.io/projects/anytalk/"
   image: anytalk.png
   authors:
-    - Kwan Yun
-    - Serin Yoon
-    - Sunjin Jung
-    - Jung Eun Yoo
-    - Inyup Lee
-    - Junyong Noh
-
+    - kwan
+    - serin
+    - sunjin
+    - jung_eun
+    - inyup
+    - junyong
+  co: 2
+  etc: "[* equal contribution]"
+  
 - id: facedirector
   title: "FaceDirector: Iterative Editing of Speech-driven Facial Animation with Natural Language"
   venue: "Under review"
