@@ -3,7 +3,18 @@ inyup:
   last_name: Lee
   website: https://LiyCg.github.io/inyuplee/
   is_me: true
-  
+serin:
+  first_name: Serin
+  last_name: Yoon
+  website: https://serin-yoon.github.io/
+kwan:
+  first_name: Kwan
+  last_name: Yun
+  website: https://kwanyun.github.io/
+jung_eun:
+  first_name: Jung Eun
+  last_name: Yoo
+  website: https://vml.kaist.ac.kr/main/people/person/19
 seonghyeon:
   first_name: Seonghyeon 
   last_name: Kim

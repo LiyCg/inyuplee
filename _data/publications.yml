@@ -1,10 +1,10 @@
 
 - id: anytalk
   title: "AnyTalk: Zero-Shot Speech-Driven 3D Facial Animation"
-  venue: "TEEE TVCG 2026"
+  venue: "IEEE TVCG 2026"
   # paper: ""
   # video: ""
-  # project_page: ""
+  project_page: "https://serin-yoon.github.io/projects/anytalk/"
   image: anytalk.png
   authors:
     - Kwan Yun
