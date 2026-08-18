@@ -24,7 +24,7 @@ position: PhD student @ KAIST
 email: leeinyup123@kaist.ac.kr
 description: >-
   Hi everyone, I am a PhD student in [Visual Media Lab](https://vml.kaist.ac.kr/) at [KAIST](https://www.kaist.ac.kr/en/). <br/>
-  I am interested in 3D facial animation and reconstruction. <br/> 
+  I am interested in multimodal 2D/3D facial animation generation and editing. <br/> 
 
 baseurl: "/inyuplee" # the subpath of your site, e.g. /blog
 url: "https://LiyCg.github.io/inyuplee" # the base hostname & protocol for your site, e.g. http://example.com
