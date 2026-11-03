@@ -4,7 +4,10 @@
   venue: "IEEE TVCG 2026"
   # paper: ""
   # video: ""
+  arxiv: "2608.16143"
+  huggingface: "2608.16143"
   project_page: "https://serin-yoon.github.io/projects/anytalk/"
+  github: "kwanyun/AnyTalk_CsF"
   image: anytalk.png
   authors:
     - kwan

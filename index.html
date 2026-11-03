@@ -200,6 +200,12 @@ layout: null
                 <span>arXiv</span>
               </a>
               {% endif %}
+              {% if publication.huggingface %}
+              <a class="external-link button is-small is-ghost" href="https://huggingface.co/papers/{{ publication.huggingface }}">
+                <span class="icon">🤗</span>
+                <span>Hugging Face</span>
+              </a>
+              {% endif %}
               {% if publication.github %}
               <a class="external-link button is-small is-ghost" href="https://github.com/{{ publication.github }}">
                 <span class="icon"><i class="fa fab fa-github"></i></span>
